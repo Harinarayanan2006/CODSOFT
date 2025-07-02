@@ -6,8 +6,7 @@ This project is part of the CodSoft Internship - Machine Learning Task.
 Build a machine learning model that predicts the **genre of a movie** based on its Textual Information.
 
 ## 📁 Files Included
-- `movie_genre_classification.ipynb`: Main Jupyter Notebook
-- `train_data_sample.txt`: Sample training data 
+- `movie_genre_classification.ipynb`: Main Jupyter Notebook 
 - `README.md`: You're reading it 😄
 
 ## 🚀 How to Use
